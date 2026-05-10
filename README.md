@@ -1,6 +1,6 @@
 AppFusion Admin DashboardA high-performance, aesthetically pleasing Admin Dashboard developed during my internship at AppFusion. This project serves as a comprehensive management interface built with React and Tailwind CSS, featuring dynamic data visualization, responsive layouts, and a seamless user experience.  
 
-Live PreviewThe application is configured to run locally at: http://localhost:5000/.  
+Live PreviewThe application is configured to run locally at:https://admin-dashboard-frontend-psi-one.vercel.app/
  
 Key FeaturesDynamic Dashboards: Real-time feel with interactive charts and data widgets.  
 Theme Switching: Fully integrated Dark and Light mode with smooth transitions and state persistence.  
